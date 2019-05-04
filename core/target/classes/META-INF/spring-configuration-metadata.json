@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "jwt.config",
+      "type": "academy.devdojo.properties.JwtConfiguration",
+      "sourceType": "academy.devdojo.properties.JwtConfiguration"
+    },
+    {
+      "name": "jwt.config.header",
+      "type": "academy.devdojo.properties.JwtConfiguration$Header",
+      "sourceType": "academy.devdojo.properties.JwtConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.config.expiration",
+      "type": "java.lang.Integer",
+      "sourceType": "academy.devdojo.properties.JwtConfiguration",
+      "defaultValue": 3600
+    },
+    {
+      "name": "jwt.config.header.name",
+      "type": "java.lang.String",
+      "sourceType": "academy.devdojo.properties.JwtConfiguration$Header",
+      "defaultValue": "Authorization"
+    },
+    {
+      "name": "jwt.config.header.prefix",
+      "type": "java.lang.String",
+      "sourceType": "academy.devdojo.properties.JwtConfiguration$Header",
+      "defaultValue": "Bearer "
+    },
+    {
+      "name": "jwt.config.login-uri",
+      "type": "java.lang.String",
+      "sourceType": "academy.devdojo.properties.JwtConfiguration",
+      "defaultValue": "\/login\/**"
+    },
+    {
+      "name": "jwt.config.type",
+      "type": "java.lang.String",
+      "sourceType": "academy.devdojo.properties.JwtConfiguration",
+      "defaultValue": "encrypted"
+    }
+  ],
+  "hints": []
+}

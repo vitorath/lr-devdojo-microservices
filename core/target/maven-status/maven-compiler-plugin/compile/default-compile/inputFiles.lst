@@ -1,0 +1,7 @@
+/home/vitor/Documents/devdojo-microservices/core/src/main/java/academy/devdojo/repositories/ApplicationUserRepository.java
+/home/vitor/Documents/devdojo-microservices/core/src/main/java/academy/devdojo/models/AbstractEntity.java
+/home/vitor/Documents/devdojo-microservices/core/src/main/java/academy/devdojo/properties/JwtConfiguration.java
+/home/vitor/Documents/devdojo-microservices/core/src/main/java/academy/devdojo/models/ApplicationUser.java
+/home/vitor/Documents/devdojo-microservices/core/src/main/java/academy/devdojo/docs/BaseSwaggerConfig.java
+/home/vitor/Documents/devdojo-microservices/core/src/main/java/academy/devdojo/repositories/CourseRepository.java
+/home/vitor/Documents/devdojo-microservices/core/src/main/java/academy/devdojo/models/Course.java
